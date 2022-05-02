@@ -1,0 +1,1 @@
+var serviceWorkerLib;self.addEventListener("fetch",(()=>{})),serviceWorkerLib={};
